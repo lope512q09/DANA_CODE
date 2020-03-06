@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:\\Users\\angela.willis\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
